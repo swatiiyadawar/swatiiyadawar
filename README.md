@@ -56,6 +56,7 @@
   <a href="https://www.linkedin.com/in/swati-yadawar-972692252/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
+  
   <a href="https://twitter.com/SwatiYadawar" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter logo" />
   </a>
