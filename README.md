@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Swati Shankar Yadawar and I'm a working on frontend dev from GHRECM Pune</p>
+<p align="left">My name is Swati Shankar Yadawar and I'm a working on MERN STACK developer from GHRECM Pune</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React , problem solving<br>🎯 Goals: AI engineer and Software developer<br>🎲 Fun fact: 40 percent of my code is done by my friends , chatgpt , gemini , stack-overflow</p>
+<p align="left">✨ Creating bugs since 2023<br> <br>🎯 Software developer<br>🎲 Fun fact: 40 percent of my code is done by my friends , chatgpt , gemini , stack-overflow</p>
 
 ###
 
