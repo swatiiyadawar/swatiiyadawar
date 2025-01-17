@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 </h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
 </div>
