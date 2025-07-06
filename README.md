@@ -1,32 +1,24 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">
   I'm <strong>Swati Shankar Yadawar</strong>, a passionate MERN Stack Developer from GH Raisoni College of Engineering & Management, Pune.
 </p>
 
-###
-
 <h2 align="left">💼 Current Roles</h2>
 
 <p align="left">
-  🔹 <strong>Frontend Developer Intern at Comau</strong> – Working on industrial automation solutions with a strong focus on responsive UI, performance optimization, and scalable architecture.<br>
-  🔹 <strong>Software Engineering Intern at Saksen Technologies</strong> – Contributing to real-time frontend development and enhancing application features through modern web practices.
+  <img src="https://img.icons8.com/emoji/16/briefcase-emoji.png"/> <strong>Frontend Developer Intern at Comau</strong> – Working on industrial automation solutions with a focus on responsive UI and scalable architecture.<br>
+  <img src="https://img.icons8.com/emoji/16/laptop-emoji.png"/> <strong>Software Engineering Intern at Saksen Technologies</strong> – Building frontend features with modern web practices and real-time interactivity.
 </p>
-
-###
 
 <h2 align="left">🌟 About Me</h2>
 
 <p align="left">
-  ✨ Creating (and solving!) bugs since 2023<br>
-  🎯 Passionate about web technologies, UI/UX, and full-stack development<br>
-  💬 Fun Fact: 40% of my code is powered by my amazing dev community—friends, ChatGPT, Gemini, and Stack Overflow 😄<br>
-  🎓 Pursuing B.E. in Computer Engineering
+  <img src="https://img.icons8.com/emoji/16/sparkles.png"/> Creating (and solving!) bugs since 2023<br>
+  <img src="https://img.icons8.com/emoji/16/crossed-swords.png"/> Passionate about web technologies and full-stack development<br>
+  <img src="https://img.icons8.com/emoji/16/speech-balloon.png"/> Fun Fact: 40% of my code is powered by ChatGPT, Gemini, Stack Overflow, and awesome dev friends<br>
+  <img src="https://img.icons8.com/emoji/16/graduation-cap.png"/> Pursuing B.E. in Computer Engineering
 </p>
-
-###
 
 <h2 align="left">🛠 I Code With</h2>
 
@@ -54,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
 
-###
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
@@ -66,8 +56,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
   </a>
 </div>
-
-###
 
 <h2 align="left">📊 GitHub Stats</h2>
 
