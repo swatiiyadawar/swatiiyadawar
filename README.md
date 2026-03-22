@@ -49,11 +49,7 @@
   </a>
 </div>
 
-<!-- GitHub Stats -->
-<h2 align="left" style="font-size: 1rem;">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatiiyadawar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="110" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swatiiyadawar&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="110" alt="Top Languages" />
-</div>
+
+
 
